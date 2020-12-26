@@ -21,10 +21,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: var(--dark-color);
 }
 
 .article__title {
-    color: var(--dark-color);
 }
 
 .article_btn {
